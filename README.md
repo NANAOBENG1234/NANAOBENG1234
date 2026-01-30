@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Level 100 Computer Science student at University of Ghana  
+- 🎓 Level 200 Computer Science student at University of Ghana  
 - 🌱 Currently learning **HTML, CSS, JavaScript & Git**
 - 🚀 Working on a **Campus Shuttle Tracking System**
 - 🤝 Open to collaborations and learning opportunities  
