@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://github.com/NANAOBENG1234.png" width="160" height="160" style="border-radius: 50%;" />
+<img src="https://github.com/NANAOBENG1234.png" width="150" alt="Nana Obeng Benedict" />
 
-# 👋 Hi, I'm Nana Obeng Benedict
+# Nana Obeng Benedict
 
 ### Senior Frontend Developer · Computer Science & Statistics
 
-**React • Next.js • TypeScript • JavaScript • Python • Java**
+**React · Next.js · TypeScript · JavaScript · Python · Java**
 
-Building modern web applications, exploring data, and turning ideas into useful software.
+Building practical software, exploring data, and turning ideas into useful digital products.
 
 <br/>
 
 <a href="https://github.com/NANAOBENG1234">
-<img src="https://img.shields.io/badge/GitHub-NANAOBENG1234-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-NANAOBENG1234-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/NANAOBENG1234?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -25,22 +25,21 @@ Building modern web applications, exploring data, and turning ideas into useful 
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend Developer and Computer Science & Statistics student** focused on building practical, modern and user-friendly software.
+I'm a **Frontend Developer and Computer Science & Statistics student** focused on building modern, practical and user-friendly applications.
 
-I enjoy working across **frontend engineering, software development, statistics, data analysis and emerging AI technologies**.
+My interests sit at the intersection of **frontend engineering, software development, statistics, data analysis and AI**.
 
 * 🎓 Computer Science & Statistics student at the **University of Ghana**
-* 💻 Focused on **Frontend Development**
-* ⚛️ Building with **React, Next.js and TypeScript**
-* 🐍 Using **Python** for programming and data-related work
-* ☕ Using **Java** for algorithms and software development
-* 📊 Exploring **Statistics, Data Analysis & Machine Learning**
-* 🚀 Interested in solving real-world problems through technology
-* 🤝 Open to collaboration, internships, freelance opportunities and interesting projects
+* ⚛️ Building modern interfaces with **React, Next.js and TypeScript**
+* 💻 Experienced with **JavaScript, Java and Python**
+* 📊 Exploring **Statistics, Data Analysis and Machine Learning**
+* 🧠 Interested in algorithms, data structures and software engineering
+* 🚀 Building projects that solve practical problems
+* 🤝 Open to collaboration, internships, freelance work and development opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
 ### Frontend
 
@@ -48,7 +47,7 @@ I enjoy working across **frontend engineering, software development, statistics,
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
 </p>
 
-### Backend & Programming
+### Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp" />
@@ -60,7 +59,7 @@ I enjoy working across **frontend engineering, software development, statistics,
 <img src="https://skillicons.dev/icons?i=r,mysql" />
 </p>
 
-### Tools & Platforms
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,npm" />
@@ -70,19 +69,18 @@ I enjoy working across **frontend engineering, software development, statistics,
 
 # 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
 
-<h3>📍 Bano</h3>
+<td width="50%" valign="top">
 
-<p>
-A University of Ghana campus navigation application designed to help students locate lecture rooms, examination centres and important campus locations.
-</p>
+### 📍 Bano
 
-<b>Technology:</b> HTML · Google Maps
+Campus navigation project designed to help students find **lecture rooms, examination centres and locations around the University of Ghana**.
 
-<br/><br/>
+**Built with:** HTML · Google Maps
 
 <a href="https://github.com/NANAOBENG1234/Bano">
 View Repository →
@@ -90,37 +88,31 @@ View Repository →
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>💰 Loan-App</h3>
+### 💰 Loan-App
 
-<p>
-A TypeScript-based loan application project focused on creating a structured and modern financial application experience.
-</p>
+A financial application project built with a TypeScript-based frontend.
 
-<b>Technology:</b> TypeScript
-
-<br/><br/>
+**Built with:** TypeScript
 
 <a href="https://github.com/NANAOBENG1234/Loan-App">
 View Repository →
 </a>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-<h3>🍽️ savoryBite</h3>
+<td width="50%" valign="top">
 
-<p>
-A food-focused web application exploring frontend development, responsive interfaces and interactive user experiences.
-</p>
+### 🍽️ savoryBite
 
-<b>Technology:</b> JavaScript
+Food-focused web application exploring responsive interfaces and interactive frontend experiences.
 
-<br/><br/>
+**Built with:** JavaScript
 
 <a href="https://github.com/NANAOBENG1234/savoryBite">
 View Repository →
@@ -128,37 +120,31 @@ View Repository →
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>📊 Data Mining with R</h3>
+### 📊 Data Mining with R
 
-<p>
-Statistical computing and data-mining work covering data analysis, preprocessing and practical applications of R.
-</p>
+Practical work involving **data analysis, statistical computing and data mining using R**.
 
-<b>Technology:</b> R · Statistics · Data Analysis
-
-<br/><br/>
+**Built with:** R · Statistics · Data Analysis
 
 <a href="https://github.com/NANAOBENG1234/data-mining-with-r">
 View Repository →
 </a>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-<h3>🏨 Hotel App</h3>
+<td width="50%" valign="top">
 
-<p>
-A web application project focused on creating a digital hotel experience and practicing frontend development.
-</p>
+### 🏨 Hotel App
 
-<b>Technology:</b> HTML
+Web application project focused on creating a digital hotel experience.
 
-<br/><br/>
+**Built with:** HTML
 
 <a href="https://github.com/NANAOBENG1234/Hotel_App">
 View Repository →
@@ -166,25 +152,24 @@ View Repository →
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>💻 C-Course</h3>
+### 💻 C-Course
 
-<p>
-A programming repository documenting my learning and practical work with C++.
-</p>
+Programming repository documenting practical learning and experimentation with C++.
 
-<b>Technology:</b> C++
-
-<br/><br/>
+**Built with:** C++
 
 <a href="https://github.com/NANAOBENG1234/C-Course-">
 View Repository →
 </a>
 
 </td>
+
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -192,39 +177,25 @@ View Repository →
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NANAOBENG1234&bg_color=0F172A&color=E2E8F0&line=2563EB&point=60A5FA&area=true&hide_border=true" width="95%" />
+<a href="https://github.com/NANAOBENG1234">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NANAOBENG1234&bg_color=0F172A&color=E2E8F0&line=2563EB&point=60A5FA&area=true&hide_border=true" width="95%" alt="Nana Obeng Benedict GitHub Activity Graph" />
+
+</a>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# 🟦 GitHub Contributions
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=NANAOBENG1234&theme=dark&hide_border=true&background=0F172A&ring=2563EB&fire=60A5FA&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=64748B" width="70%" />
+<a href="https://github.com/NANAOBENG1234">
 
-</div>
+<img src="https://ghchart.rshah.org/2563EB/NANAOBENG1234" alt="NANAOBENG1234 GitHub Contributions" width="95%" />
 
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NANAOBENG1234&show_icons=true&hide_border=true&bg_color=0F172A&title_color=E2E8F0&text_color=94A3B8&icon_color=60A5FA&ring_color=2563EB" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANAOBENG1234&layout=compact&hide_border=true&bg_color=0F172A&title_color=E2E8F0&text_color=94A3B8&icon_color=60A5FA" height="180" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NANAOBENG1234&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%" />
+</a>
 
 </div>
 
@@ -234,7 +205,8 @@ View Repository →
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### ⚛️ Frontend Engineering
 
@@ -247,7 +219,7 @@ View Repository →
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Data & Statistics
 
@@ -259,34 +231,37 @@ View Repository →
 * Quantitative Analysis
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 💻 Software Development
+<td width="50%" valign="top">
+
+### 💻 Computer Science
 
 * Java
 * Python
-* JavaScript
 * C++
 * Algorithms
 * Data Structures
+* Software Engineering
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ Development
 
 * Git & GitHub
 * REST APIs
-* Databases
+* MySQL
 * Firebase
-* Software Engineering
+* Version Control
 * AI-assisted Development
 
 </td>
+
 </tr>
 </table>
 
@@ -294,7 +269,14 @@ View Repository →
 
 # 🎯 What I'm Working Toward
 
-> **Build software that solves real problems, continuously improve my engineering skills, and combine software development with statistics and data to create meaningful products.**
+<div align="center">
+
+> **Build software that solves real problems.**
+>
+> Continuously improve my engineering skills while combining
+> **software development, statistics and data** to create meaningful products.
+
+</div>
 
 ---
 
@@ -303,11 +285,11 @@ View Repository →
 <div align="center">
 
 <a href="https://github.com/NANAOBENG1234">
-<img src="https://img.shields.io/badge/GitHub-NANAOBENG1234-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-NANAOBENG1234-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -316,7 +298,7 @@ View Repository →
 
 <div align="center">
 
-### Thanks for visiting my profile! 👋
+### Thanks for visiting my profile 👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=100&section=footer" width="100%" />
 
