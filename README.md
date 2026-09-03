@@ -13,10 +13,15 @@ Building practical software, exploring data, and turning ideas into useful digit
 <br/>
 
 <a href="https://github.com/NANAOBENG1234">
-  <img src="https://img.shields.io/badge/GitHub-NANAOBENG1234-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-NANAOBENG1234-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://github.com/NANAOBENG1234?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NANAOBENG1234?tab=followers">
+<img src="https://img.shields.io/github/followers/NANAOBENG1234?style=for-the-badge&label=Followers&color=2563EB&labelColor=0F172A"/>
 </a>
 
 </div>
@@ -30,8 +35,8 @@ I'm a **Frontend Developer and Computer Science & Statistics student** focused o
 My interests sit at the intersection of **frontend engineering, software development, statistics, data analysis and AI**.
 
 * 🎓 Computer Science & Statistics student at the **University of Ghana**
-* ⚛️ Building modern interfaces with **React, Next.js and TypeScript**
-* 💻 Experienced with **JavaScript, Java and Python**
+* ⚛️ Building with **React, Next.js and TypeScript**
+* 💻 Working with **JavaScript, Java and Python**
 * 📊 Exploring **Statistics, Data Analysis and Machine Learning**
 * 🧠 Interested in algorithms, data structures and software engineering
 * 🚀 Building projects that solve practical problems
@@ -39,7 +44,7 @@ My interests sit at the intersection of **frontend engineering, software develop
 
 ---
 
-## 🛠️ Technology Stack
+# 🛠️ Technology Stack
 
 ### Frontend
 
@@ -59,7 +64,7 @@ My interests sit at the intersection of **frontend engineering, software develop
 <img src="https://skillicons.dev/icons?i=r,mysql" />
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,npm" />
@@ -69,8 +74,6 @@ My interests sit at the intersection of **frontend engineering, software develop
 
 # 🚀 Featured Projects
 
-<div align="center">
-
 <table>
 <tr>
 
@@ -78,9 +81,9 @@ My interests sit at the intersection of **frontend engineering, software develop
 
 ### 📍 Bano
 
-Campus navigation project designed to help students find **lecture rooms, examination centres and locations around the University of Ghana**.
+Campus navigation application designed to help students locate lecture rooms, examination centres and important locations around the University of Ghana.
 
-**Built with:** HTML · Google Maps
+**Stack:** HTML · Google Maps
 
 <a href="https://github.com/NANAOBENG1234/Bano">
 View Repository →
@@ -92,9 +95,9 @@ View Repository →
 
 ### 💰 Loan-App
 
-A financial application project built with a TypeScript-based frontend.
+A TypeScript-based financial application project focused on building a modern loan application experience.
 
-**Built with:** TypeScript
+**Stack:** TypeScript
 
 <a href="https://github.com/NANAOBENG1234/Loan-App">
 View Repository →
@@ -112,7 +115,7 @@ View Repository →
 
 Food-focused web application exploring responsive interfaces and interactive frontend experiences.
 
-**Built with:** JavaScript
+**Stack:** JavaScript
 
 <a href="https://github.com/NANAOBENG1234/savoryBite">
 View Repository →
@@ -124,9 +127,9 @@ View Repository →
 
 ### 📊 Data Mining with R
 
-Practical work involving **data analysis, statistical computing and data mining using R**.
+Practical statistical computing and data-mining work involving data analysis and R.
 
-**Built with:** R · Statistics · Data Analysis
+**Stack:** R · Statistics · Data Analysis
 
 <a href="https://github.com/NANAOBENG1234/data-mining-with-r">
 View Repository →
@@ -144,7 +147,7 @@ View Repository →
 
 Web application project focused on creating a digital hotel experience.
 
-**Built with:** HTML
+**Stack:** HTML
 
 <a href="https://github.com/NANAOBENG1234/Hotel_App">
 View Repository →
@@ -158,7 +161,7 @@ View Repository →
 
 Programming repository documenting practical learning and experimentation with C++.
 
-**Built with:** C++
+**Stack:** C++
 
 <a href="https://github.com/NANAOBENG1234/C-Course-">
 View Repository →
@@ -169,17 +172,21 @@ View Repository →
 </tr>
 </table>
 
-</div>
-
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/NANAOBENG1234">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NANAOBENG1234&bg_color=0F172A&color=E2E8F0&line=2563EB&point=60A5FA&area=true&hide_border=true" width="95%" alt="Nana Obeng Benedict GitHub Activity Graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=NANAOBENG1234&show_icons=true&hide_border=true&bg_color=0F172A&title_color=E2E8F0&text_color=94A3B8&icon_color=60A5FA&ring_color=2563EB&include_all_commits=true" height="180" />
+
+</a>
+
+<a href="https://github.com/NANAOBENG1234">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANAOBENG1234&layout=compact&hide_border=true&bg_color=0F172A&title_color=E2E8F0&text_color=94A3B8&icon_color=60A5FA&langs_count=8" height="180" />
 
 </a>
 
@@ -187,15 +194,66 @@ View Repository →
 
 ---
 
-# 🟦 GitHub Contributions
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=NANAOBENG1234&theme=dark&hide_border=true&background=0F172A&ring=2563EB&fire=60A5FA&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=64748B" width="70%" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
 
 <div align="center">
 
 <a href="https://github.com/NANAOBENG1234">
 
-<img src="https://ghchart.rshah.org/2563EB/NANAOBENG1234" alt="NANAOBENG1234 GitHub Contributions" width="95%" />
+<img src="https://ghchart.rshah.org/2563EB/NANAOBENG1234" alt="NANAOBENG1234 contribution graph" width="95%" />
 
 </a>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+My GitHub achievements are maintained directly by GitHub and can be viewed on my profile.
+
+<div align="center">
+
+<a href="https://github.com/NANAOBENG1234?tab=achievements">
+
+<img src="https://img.shields.io/badge/View%20GitHub%20Achievements-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
+
+</div>
+
+<br/>
+
+**Achievements include GitHub milestones such as:**
+
+`YOLO` · `Pull Shark` · `Pair Extraordinaire` · `Quickdraw` · `Galaxy Brain` · `Starstruck`
+
+> GitHub determines which achievements appear on the profile based on actual activity. No achievement numbers or badges are hard-coded here.
+
+---
+
+# 📌 GitHub Overview
+
+<div align="center">
+
+|         Metric         |  Live Data  |
+| :--------------------: | :---------: |
+|         ⭐ Stars        | From GitHub |
+|      👥 Followers      | From GitHub |
+|     📦 Repositories    | From GitHub |
+| 🔥 Contribution Streak |     Live    |
+|    💻 Top Languages    |     Live    |
+|     🏆 Achievements    |    GitHub   |
 
 </div>
 
@@ -285,11 +343,11 @@ View Repository →
 <div align="center">
 
 <a href="https://github.com/NANAOBENG1234">
-<img src="https://img.shields.io/badge/GitHub-NANAOBENG1234-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-NANAOBENG1234-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
